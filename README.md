@@ -1,4 +1,4 @@
-### Hi 🐧 <img align="right" img src="https://visitor-badge.laobi.icu/badge?page_id=leftermv.leftermv&"  />
+### Hi 🐧
 
 I'm a Computer Science student. In my spare time, I usually enjoy reading non fiction.  
 
@@ -14,7 +14,7 @@ I'm trying to learn as much as possible about cybersecurity so I (try to) keep a
 
 However, my time is very limited, and I don't expect my activity on Github to be one of my highest priorities.  
   
-  
+[![email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:leftermv@gmail.com)
 [![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.google.com)
 [![THM](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com/p/iDominik)
 
