@@ -15,10 +15,8 @@ I'm trying to learn as much as possible about cybersecurity so I (try to) keep a
 However, my time is very limited, and I don't expect my activity on Github to be one of my highest priorities.  
   
   
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](https://www.google.com)
-[![Gmail](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.google.com)
-[![Gmail](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge)](https://www.google.com)
-
+[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.google.com)
+[![THM](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com/p/iDominik)
 
 #
 
