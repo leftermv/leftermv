@@ -10,7 +10,7 @@ Currently working part-time at a great IT company :)
 
   <img align="right" img src="https://github-readme-stats.vercel.app/api?username=leftermv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 
-I'm trying to learn as much as possible about cybersecurity so I (try to) keep a repository with CTF writeups. Sometime, here will be a repository containing scripts I'll write in order to help me solve certain CTFs.  
+I'm trying to learn as much as possible about cybersecurity so I (try to) keep a repository with CTF writeups.
 
 However, my time is very limited, and I don't expect my activity on Github to be one of my highest priorities.  
   
